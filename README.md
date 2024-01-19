@@ -1,0 +1,2 @@
+# inverted
+predicateのinvertedに関するデータパックサンプルになります。
